@@ -1,0 +1,40 @@
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe.config
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.pdb
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csprojAssemblyReference.cache
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.main.resources
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.Properties.Resources.resources
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.GenerateResource.cache
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe.config
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.pdb
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csprojAssemblyReference.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.main.resources
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.Properties.Resources.resources
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.GenerateResource.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code_v1\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe.config
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.pdb
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csprojAssemblyReference.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.main.resources
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.Properties.Resources.resources
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.GenerateResource.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
+F:\doccument\my subject\thuc tap\game quay so\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe.config
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.pdb
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csprojAssemblyReference.cache
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.main.resources
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.Properties.Resources.resources
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.GenerateResource.cache
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
+D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb
