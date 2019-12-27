@@ -92,5 +92,8 @@
   <ItemGroup>
     <None Include="Resources\2019.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lovepik_com-401436454-gold-coin-icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

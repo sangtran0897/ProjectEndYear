@@ -99,5 +99,15 @@ namespace quaysotrungthuong.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lovepik_com_401436454_gold_coin_icon {
+            get {
+                object obj = ResourceManager.GetObject("Lovepik_com-401436454-gold-coin-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

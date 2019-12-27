@@ -38,3 +38,13 @@ D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuo
 D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
 D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
 D:\VTC\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe.config
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.exe
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\bin\Debug\quaysotrungthuong.pdb
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csprojAssemblyReference.cache
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.main.resources
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.Properties.Resources.resources
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.GenerateResource.cache
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.csproj.CoreCompileInputs.cache
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.exe
+F:\project\ProjectEndYear\GameRandomNumber\code_v2\quaysotrungthuong\quaysotrungthuong\obj\Debug\quaysotrungthuong.pdb

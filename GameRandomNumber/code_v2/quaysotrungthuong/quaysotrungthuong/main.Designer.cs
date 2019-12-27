@@ -46,8 +46,6 @@
             this.label_ba3 = new System.Windows.Forms.Label();
             this.button_Start = new System.Windows.Forms.Button();
             this.label_khuyenkhich1 = new System.Windows.Forms.Label();
-            this.label_ChucMung = new System.Windows.Forms.Label();
-            this.label_HenGapLai = new System.Windows.Forms.Label();
             this.button_Back = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -59,12 +57,12 @@
             this.label_ShowRandom.BackColor = System.Drawing.Color.Transparent;
             this.label_ShowRandom.Font = new System.Drawing.Font("Microsoft Sans Serif", 99.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_ShowRandom.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label_ShowRandom.Location = new System.Drawing.Point(570, 387);
+            this.label_ShowRandom.Location = new System.Drawing.Point(539, 241);
             this.label_ShowRandom.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label_ShowRandom.Name = "label_ShowRandom";
-            this.label_ShowRandom.Size = new System.Drawing.Size(449, 398);
+            this.label_ShowRandom.Size = new System.Drawing.Size(298, 292);
             this.label_ShowRandom.TabIndex = 2;
-            this.label_ShowRandom.Text = "1";
+            this.label_ShowRandom.Text = "150";
             this.label_ShowRandom.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label_ShowRandom.UseMnemonic = false;
             // 
@@ -75,11 +73,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich2.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich2.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich2.Location = new System.Drawing.Point(304, 55);
+            this.label_khuyenkhich2.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich2.Location = new System.Drawing.Point(491, 697);
             this.label_khuyenkhich2.Name = "label_khuyenkhich2";
-            this.label_khuyenkhich2.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich2.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich2.TabIndex = 8;
-            this.label_khuyenkhich2.Text = "1";
+            this.label_khuyenkhich2.Text = "150";
             this.label_khuyenkhich2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich3
@@ -89,11 +88,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich3.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich3.Location = new System.Drawing.Point(185, 114);
+            this.label_khuyenkhich3.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich3.Location = new System.Drawing.Point(550, 697);
             this.label_khuyenkhich3.Name = "label_khuyenkhich3";
-            this.label_khuyenkhich3.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich3.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich3.TabIndex = 9;
-            this.label_khuyenkhich3.Text = "1";
+            this.label_khuyenkhich3.Text = "150";
             this.label_khuyenkhich3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich4
@@ -103,11 +103,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich4.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich4.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich4.Location = new System.Drawing.Point(304, 114);
+            this.label_khuyenkhich4.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich4.Location = new System.Drawing.Point(610, 697);
             this.label_khuyenkhich4.Name = "label_khuyenkhich4";
-            this.label_khuyenkhich4.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich4.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich4.TabIndex = 10;
-            this.label_khuyenkhich4.Text = "1";
+            this.label_khuyenkhich4.Text = "150";
             this.label_khuyenkhich4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich5
@@ -117,11 +118,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich5.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich5.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich5.Location = new System.Drawing.Point(185, 186);
+            this.label_khuyenkhich5.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich5.Location = new System.Drawing.Point(669, 697);
             this.label_khuyenkhich5.Name = "label_khuyenkhich5";
-            this.label_khuyenkhich5.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich5.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich5.TabIndex = 11;
-            this.label_khuyenkhich5.Text = "1";
+            this.label_khuyenkhich5.Text = "150";
             this.label_khuyenkhich5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich6
@@ -131,11 +133,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich6.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich6.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich6.Location = new System.Drawing.Point(304, 186);
+            this.label_khuyenkhich6.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich6.Location = new System.Drawing.Point(729, 697);
             this.label_khuyenkhich6.Name = "label_khuyenkhich6";
-            this.label_khuyenkhich6.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich6.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich6.TabIndex = 12;
-            this.label_khuyenkhich6.Text = "1";
+            this.label_khuyenkhich6.Text = "150";
             this.label_khuyenkhich6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich10
@@ -145,11 +148,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich10.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich10.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich10.Location = new System.Drawing.Point(304, 353);
+            this.label_khuyenkhich10.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich10.Location = new System.Drawing.Point(967, 697);
             this.label_khuyenkhich10.Name = "label_khuyenkhich10";
-            this.label_khuyenkhich10.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich10.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich10.TabIndex = 16;
-            this.label_khuyenkhich10.Text = "1";
+            this.label_khuyenkhich10.Text = "150";
             this.label_khuyenkhich10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich9
@@ -159,11 +163,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich9.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich9.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich9.Location = new System.Drawing.Point(185, 353);
+            this.label_khuyenkhich9.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich9.Location = new System.Drawing.Point(907, 697);
             this.label_khuyenkhich9.Name = "label_khuyenkhich9";
-            this.label_khuyenkhich9.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich9.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich9.TabIndex = 15;
-            this.label_khuyenkhich9.Text = "1";
+            this.label_khuyenkhich9.Text = "150";
             this.label_khuyenkhich9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_khuyenkhich8
@@ -173,11 +178,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich8.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich8.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich8.Location = new System.Drawing.Point(304, 267);
+            this.label_khuyenkhich8.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich8.Location = new System.Drawing.Point(848, 697);
             this.label_khuyenkhich8.Name = "label_khuyenkhich8";
-            this.label_khuyenkhich8.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich8.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich8.TabIndex = 14;
-            this.label_khuyenkhich8.Text = "1";
+            this.label_khuyenkhich8.Text = "150";
             this.label_khuyenkhich8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label_khuyenkhich8.UseMnemonic = false;
             // 
@@ -188,11 +194,12 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich7.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich7.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich7.Location = new System.Drawing.Point(185, 267);
+            this.label_khuyenkhich7.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich7.Location = new System.Drawing.Point(788, 697);
             this.label_khuyenkhich7.Name = "label_khuyenkhich7";
-            this.label_khuyenkhich7.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich7.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich7.TabIndex = 13;
-            this.label_khuyenkhich7.Text = "1";
+            this.label_khuyenkhich7.Text = "150";
             this.label_khuyenkhich7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_nhat
@@ -201,12 +208,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_nhat.BackColor = System.Drawing.Color.Transparent;
-            this.label_nhat.Font = new System.Drawing.Font("Times New Roman", 18.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_nhat.Location = new System.Drawing.Point(1062, 296);
+            this.label_nhat.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_nhat.ForeColor = System.Drawing.Color.Yellow;
+            this.label_nhat.Location = new System.Drawing.Point(669, 551);
             this.label_nhat.Name = "label_nhat";
-            this.label_nhat.Size = new System.Drawing.Size(113, 57);
+            this.label_nhat.Size = new System.Drawing.Size(35, 24);
             this.label_nhat.TabIndex = 19;
-            this.label_nhat.Text = "1";
+            this.label_nhat.Text = "150";
             this.label_nhat.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_nhi1
@@ -215,12 +223,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_nhi1.BackColor = System.Drawing.Color.Transparent;
-            this.label_nhi1.Font = new System.Drawing.Font("Times New Roman", 18.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_nhi1.Location = new System.Drawing.Point(1065, 409);
+            this.label_nhi1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_nhi1.ForeColor = System.Drawing.Color.MintCream;
+            this.label_nhi1.Location = new System.Drawing.Point(637, 602);
             this.label_nhi1.Name = "label_nhi1";
-            this.label_nhi1.Size = new System.Drawing.Size(109, 56);
+            this.label_nhi1.Size = new System.Drawing.Size(35, 24);
             this.label_nhi1.TabIndex = 20;
-            this.label_nhi1.Text = "1";
+            this.label_nhi1.Text = "150";
             this.label_nhi1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_nhi2
@@ -229,12 +238,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_nhi2.BackColor = System.Drawing.Color.Transparent;
-            this.label_nhi2.Font = new System.Drawing.Font("Times New Roman", 18.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_nhi2.Location = new System.Drawing.Point(1063, 501);
+            this.label_nhi2.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_nhi2.ForeColor = System.Drawing.Color.MintCream;
+            this.label_nhi2.Location = new System.Drawing.Point(693, 602);
             this.label_nhi2.Name = "label_nhi2";
-            this.label_nhi2.Size = new System.Drawing.Size(109, 57);
+            this.label_nhi2.Size = new System.Drawing.Size(35, 24);
             this.label_nhi2.TabIndex = 21;
-            this.label_nhi2.Text = "1";
+            this.label_nhi2.Text = "150";
             this.label_nhi2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_ba1
@@ -243,12 +253,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_ba1.BackColor = System.Drawing.Color.Transparent;
-            this.label_ba1.Font = new System.Drawing.Font("Times New Roman", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_ba1.Location = new System.Drawing.Point(1059, 597);
+            this.label_ba1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_ba1.ForeColor = System.Drawing.Color.Goldenrod;
+            this.label_ba1.Location = new System.Drawing.Point(610, 651);
             this.label_ba1.Name = "label_ba1";
-            this.label_ba1.Size = new System.Drawing.Size(109, 57);
+            this.label_ba1.Size = new System.Drawing.Size(35, 24);
             this.label_ba1.TabIndex = 22;
-            this.label_ba1.Text = "1";
+            this.label_ba1.Text = "150";
             this.label_ba1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_ba2
@@ -257,12 +268,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_ba2.BackColor = System.Drawing.Color.Transparent;
-            this.label_ba2.Font = new System.Drawing.Font("Times New Roman", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_ba2.Location = new System.Drawing.Point(1059, 685);
+            this.label_ba2.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_ba2.ForeColor = System.Drawing.Color.Goldenrod;
+            this.label_ba2.Location = new System.Drawing.Point(669, 651);
             this.label_ba2.Name = "label_ba2";
-            this.label_ba2.Size = new System.Drawing.Size(109, 56);
+            this.label_ba2.Size = new System.Drawing.Size(35, 24);
             this.label_ba2.TabIndex = 23;
-            this.label_ba2.Text = "1";
+            this.label_ba2.Text = "150";
             this.label_ba2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label_ba3
@@ -271,12 +283,13 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_ba3.BackColor = System.Drawing.Color.Transparent;
-            this.label_ba3.Font = new System.Drawing.Font("Times New Roman", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_ba3.Location = new System.Drawing.Point(1059, 768);
+            this.label_ba3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label_ba3.ForeColor = System.Drawing.Color.Goldenrod;
+            this.label_ba3.Location = new System.Drawing.Point(729, 651);
             this.label_ba3.Name = "label_ba3";
-            this.label_ba3.Size = new System.Drawing.Size(109, 59);
+            this.label_ba3.Size = new System.Drawing.Size(35, 24);
             this.label_ba3.TabIndex = 24;
-            this.label_ba3.Text = "1";
+            this.label_ba3.Text = "150";
             this.label_ba3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button_Start
@@ -287,12 +300,12 @@
             this.button_Start.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button_Start.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Start.ForeColor = System.Drawing.Color.Black;
-            this.button_Start.Location = new System.Drawing.Point(1212, 768);
+            this.button_Start.Location = new System.Drawing.Point(224, 644);
             this.button_Start.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.button_Start.Name = "button_Start";
-            this.button_Start.Size = new System.Drawing.Size(124, 81);
+            this.button_Start.Size = new System.Drawing.Size(137, 40);
             this.button_Start.TabIndex = 0;
-            this.button_Start.Text = "MỜI QUAY SỐ";
+            this.button_Start.Text = "ĐANG QUAY SỐ";
             this.button_Start.UseVisualStyleBackColor = false;
             this.button_Start.Click += new System.EventHandler(this.startbutton_Click);
             // 
@@ -303,49 +316,27 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label_khuyenkhich1.BackColor = System.Drawing.Color.Transparent;
             this.label_khuyenkhich1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_khuyenkhich1.Location = new System.Drawing.Point(185, 55);
+            this.label_khuyenkhich1.ForeColor = System.Drawing.Color.Black;
+            this.label_khuyenkhich1.Location = new System.Drawing.Point(431, 697);
             this.label_khuyenkhich1.Name = "label_khuyenkhich1";
-            this.label_khuyenkhich1.Size = new System.Drawing.Size(113, 46);
+            this.label_khuyenkhich1.Size = new System.Drawing.Size(35, 24);
             this.label_khuyenkhich1.TabIndex = 25;
-            this.label_khuyenkhich1.Text = "1";
+            this.label_khuyenkhich1.Text = "150";
             this.label_khuyenkhich1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label_ChucMung
-            // 
-            this.label_ChucMung.AutoSize = true;
-            this.label_ChucMung.BackColor = System.Drawing.Color.Transparent;
-            this.label_ChucMung.ForeColor = System.Drawing.Color.Lime;
-            this.label_ChucMung.Location = new System.Drawing.Point(740, 763);
-            this.label_ChucMung.Name = "label_ChucMung";
-            this.label_ChucMung.Size = new System.Drawing.Size(104, 22);
-            this.label_ChucMung.TabIndex = 26;
-            this.label_ChucMung.Text = "Chúc mừng";
-            // 
-            // label_HenGapLai
-            // 
-            this.label_HenGapLai.AutoSize = true;
-            this.label_HenGapLai.BackColor = System.Drawing.Color.Transparent;
-            this.label_HenGapLai.ForeColor = System.Drawing.Color.Lime;
-            this.label_HenGapLai.Location = new System.Drawing.Point(741, 797);
-            this.label_HenGapLai.Name = "label_HenGapLai";
-            this.label_HenGapLai.Size = new System.Drawing.Size(103, 22);
-            this.label_HenGapLai.TabIndex = 27;
-            this.label_HenGapLai.Text = "Hẹn hặp lại";
             // 
             // button_Back
             // 
-            this.button_Back.AutoSize = true;
             this.button_Back.BackColor = System.Drawing.Color.Silver;
             this.button_Back.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button_Back.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button_Back.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Back.ForeColor = System.Drawing.Color.Black;
-            this.button_Back.Location = new System.Drawing.Point(245, 768);
+            this.button_Back.Location = new System.Drawing.Point(246, 686);
             this.button_Back.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.button_Back.Name = "button_Back";
-            this.button_Back.Size = new System.Drawing.Size(122, 81);
+            this.button_Back.Size = new System.Drawing.Size(92, 37);
             this.button_Back.TabIndex = 28;
-            this.button_Back.Text = "Quay lại";
+            this.button_Back.Text = "QUAY LẠI";
             this.button_Back.UseVisualStyleBackColor = false;
             this.button_Back.Click += new System.EventHandler(this.Button_Back_Click);
             // 
@@ -357,10 +348,7 @@
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = global::quaysotrungthuong.Properties.Resources._2019;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(1569, 881);
-            this.Controls.Add(this.button_Back);
-            this.Controls.Add(this.label_HenGapLai);
-            this.Controls.Add(this.label_ChucMung);
+            this.ClientSize = new System.Drawing.Size(1350, 729);
             this.Controls.Add(this.label_khuyenkhich1);
             this.Controls.Add(this.button_Start);
             this.Controls.Add(this.label_nhi1);
@@ -379,10 +367,12 @@
             this.Controls.Add(this.label_khuyenkhich4);
             this.Controls.Add(this.label_khuyenkhich3);
             this.Controls.Add(this.label_khuyenkhich2);
+            this.Controls.Add(this.button_Back);
             this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.Name = "main";
+            this.Opacity = 0D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QUAY SỐ TRÚNG THƯỞNG";
             this.TopMost = true;
@@ -411,8 +401,6 @@
         private System.Windows.Forms.Label label_ba3;
         internal System.Windows.Forms.Button button_Start;
         private System.Windows.Forms.Label label_khuyenkhich1;
-        private System.Windows.Forms.Label label_ChucMung;
-        private System.Windows.Forms.Label label_HenGapLai;
         internal System.Windows.Forms.Button button_Back;
     }
 }

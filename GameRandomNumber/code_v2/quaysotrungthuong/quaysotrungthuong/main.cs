@@ -14,31 +14,50 @@ namespace quaysotrungthuong
 {
     public partial class main : Form
     {
-        int  countClick = 0;
+        int countClick = 0;
         int viTriSoDaChonTrongMang = 0;
         int so;
         int[] so_da_chon = new int[150];
+        bool checkButton = false;
 
         public main()
         {
             InitializeComponent();
             Control.CheckForIllegalCrossThreadCalls = false;
-            label_ChucMung.Text = "";
-            label_HenGapLai.Text = "";
+            //label_ChucMung.Text = "";
+            //label_HenGapLai.Text = "";
             this.button_Start.Text = "MỜI QUAY SỐ";
             this.button_Start.BackColor = Color.Yellow;
+
+            label_khuyenkhich1.Text = "";
+            label_khuyenkhich2.Text = "";
+            label_khuyenkhich3.Text = "";
+            label_khuyenkhich4.Text = "";
+            label_khuyenkhich5.Text = "";
+            label_khuyenkhich6.Text = "";
+            label_khuyenkhich7.Text = "";
+            label_khuyenkhich8.Text = "";
+            label_khuyenkhich9.Text = "";
+            label_khuyenkhich10.Text = "";
+            label_ba1.Text = "";
+            label_ba2.Text = "";
+            label_ba3.Text = "";
+            label_nhi1.Text = "";
+            label_nhi2.Text = "";
+            label_nhat.Text = "";
         }
-        private void startbutton_Click(object sender, EventArgs e)
+        void RandomNumber()
         {
-            if (viTriSoDaChonTrongMang ==  countClick)
+            if (viTriSoDaChonTrongMang == countClick)//giải quyết việc đang quay mà nhấn tiếp cũng k làm gì
             {
-                 countClick++;
+                checkButton = false;
+                countClick++;
                 //----------------------------------------------------//
                 Random quay = new Random();
                 if (viTriSoDaChonTrongMang >= 16)
                 {
-                    label_ChucMung.Text = "Chúc mừng";
-                    label_HenGapLai.Text = "Hẹn gặp lại!";
+                    //label_ChucMung.Text = "Chúc mừng";
+                    //label_HenGapLai.Text = "Hẹn gặp lại!";
                 }
                 else
                 {
@@ -63,7 +82,7 @@ namespace quaysotrungthuong
                         for (int i = 1; i < 10; i++)
                         {
                             this.button_Start.Text = "ĐANG QUAY SỐ";
-                            this.button_Start.BackColor = Color.Blue;
+                            this.button_Start.BackColor = Color.Silver;
                             Random quay1 = new Random();
                             int number = quay1.Next(1, 150);
                             label_ShowRandom.Text = number.ToString();
@@ -95,17 +114,35 @@ namespace quaysotrungthuong
 
                         this.button_Start.Text = "MỜI QUAY SỐ";
                         this.button_Start.BackColor = Color.Yellow;
+                        this.button_Back.Size = new System.Drawing.Size(92, 29);//92, 29
+                        this.button_Back.Text = "QUAY LẠI";
                         viTriSoDaChonTrongMang = viTriSoDaChonTrongMang + 1;
+                        checkButton = true;
                         //------------------------------------------------------------//
                     }
                     //-----------------------------------------------------------------------//
                 }
             }
         }
+        private void startbutton_Click(object sender, EventArgs e)
+        {
+            RandomNumber();
+        }
 
         private void Button_Back_Click(object sender, EventArgs e)
         {
-
+            if (checkButton == true)//nếu đang quay thì không cho bấm quay lại
+            {
+                viTriSoDaChonTrongMang--;
+                countClick--;
+                RandomNumber();
+                this.button_Back.Text = "";
+                this.button_Back.Size = new System.Drawing.Size(0, 0);//92, 29
+            }
+            button_Back.Enabled = false;
+            Thread.Sleep(300);
+            Application.DoEvents();
+            button_Back.Enabled = true;
         }
     }
 }
